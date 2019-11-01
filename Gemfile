@@ -5,7 +5,7 @@ ruby '2.5.5'
 
 gem 'rspec', '~> 3.8'
 
-gem 'devise', '~> 4.6.2'
+gem 'devise', '~> 4.7.1'
 
 gem 'pundit', '~> 2.0.1'
 
